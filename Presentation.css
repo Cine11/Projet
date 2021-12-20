@@ -1,0 +1,153 @@
+html
+{
+    background-color: blanchedalmond;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    
+    font-family: vivaldi;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+h2{
+    text-transform: uppercase;
+  text-align: center;
+  padding-top: 5px;
+  
+}
+#info
+{
+    width: 800px;
+    margin: auto;
+}
+h3{
+    
+    margin: auto;
+   
+}
+
+.images
+{
+    padding: 10px 0 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px;
+    border-radius: 100px;
+}
+
+#oasis1
+{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#oasis22
+{
+    
+    margin-left: 20px;
+    margin-top: 20px; 
+}
+#vue
+{
+    
+    text-align: center;
+    font-size: 30px;
+    margin-top: 180px;
+    font-family: algerian;
+    color: burlywood;
+    
+}
+.images img:hover
+{
+    opacity: 1;
+  transform: scale(1.05);
+  transition: 0.6s ease-in-out;
+}
+#logo
+{
+    margin-top: -270px;
+}
+#logo1
+{
+    float: right;
+    margin-top: -106px;
+}
+h3{
+    text-align: center;
+    margin-top: -50px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.interieur
+{
+    margin-left: 25px;
+    padding: 10px 0 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkgray;
+
+}
+.chambres2{
+   margin-left: 30px;
+}
+
+
+
+.autreligne{
+    
+    margin-top: 10px;
+    padding: 10px 0 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-family: fantasy;
+}
+mark{
+    background-color: dimgrey;
+}
+h4
+{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+.piscines
+{
+    margin-top: 10px;
+    padding: 10px 0 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.piscinein
+{
+    margin-top: 100px;
+    margin-left: 185px;
+}
+.piscineex
+{
+    margin-top: 100px;
+}
+#parking1
+{
+    margin-left: -79px;
+}
+#resto1
+{
+    margin-left: 175px;
+}

@@ -1,0 +1,47 @@
+html
+{
+    background-color: beige;
+}
+
+h2
+{
+    color: red;
+    font-family: vivaldi;
+    font-size: 35px;
+}
+#ip{
+    width: 800px;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif;
+}
+
+#reservation
+{
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+h3{text-align: center;
+    font-family: colonna mt;
+    font-size: 30px;    
+}
+    button{
+        color: red;
+    }
+
+    .form{
+        display: block;
+        border-radius: 10px;
+        border-color: rgb(27, 60, 248);
+    }
+   details
+   {
+       float: right;
+       color: red;
+       margin-right: -350px;
+       margin-top: -50px;
+   }
+   ol{
+       color: black;
+       font-size: 20px;
+   }
